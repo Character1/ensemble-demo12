@@ -22,4 +22,5 @@ public class GalaxyAllStarterTest {
 	public static void main(String[] args) {
 		GalaxyStarter.main(null);
 	}
+	//nihao
 }
